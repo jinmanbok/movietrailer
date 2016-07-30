@@ -15,4 +15,5 @@ Execute entertainment_center.py
 From the command line:
 
 python entertainment_center.py
+
 The site (fresh_tomatoes.html) should build and open in your default browser.
